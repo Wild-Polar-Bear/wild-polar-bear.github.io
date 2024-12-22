@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 > 2024.12.22
+
 Today I'm trying to set a website like this and this is my achievement
